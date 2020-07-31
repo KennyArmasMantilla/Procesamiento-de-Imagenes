@@ -1,0 +1,7 @@
+
+class Filtros {
+
+    public Filtros() {
+    }
+    
+}
